@@ -4,7 +4,7 @@ This repository contains the codes and manuscript generated during my Master's t
 
 For questions or commets about the work feel free to reach out at claudivallmuller@gmail.com.
 
-### Executive Summary
+### Summary of the work
 
 
 One of the major open problems in astrophysics is the problem of _dark matter_: an 85% of the total mass of the universe is unknown. Among the several candidates for this unseen mass are _ultralight bosons_, incredibly light particles that do not interact significantly with the other known particles. An optimistic path to probe this candidate is the well-established mechanism of _black hole superradiance_: if ultralight bosons exist, dense clouds of these particles are expected to grow around rotating black holes by extracting its rotational energy. 
