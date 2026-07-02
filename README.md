@@ -2,7 +2,7 @@
 
 This repository contains the codes and manuscript generated during my Master's thesis in Physics and Astronomy at GRAPPA (University of Amsterdam).
 
-<img src="plots/Physical setup.png" alt="Physical setup" width="1000">
+<img src="plots/Physical setup.png" alt="Physical setup" width="750">
 
 For questions or comments about the work feel free to reach out at claudivallmuller@gmail.com.
 
