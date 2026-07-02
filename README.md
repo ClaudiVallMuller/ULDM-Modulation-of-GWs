@@ -6,7 +6,7 @@ This repository contains the codes and manuscript generated during my Master's t
 ![alt text](https://github.com/ClaudiVallMuller/ULDM-Modulation-of-GWs/plots/Physical setup.png?raw=true)
 
 
-
+https://github.com/ClaudiVallMuller/ULDM-Modulation-of-GWs/blob/plots/Physical setup.png?raw=true
 
 
 For questions or comments about the work feel free to reach out at claudivallmuller@gmail.com.
