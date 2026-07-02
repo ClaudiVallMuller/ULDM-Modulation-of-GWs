@@ -3,7 +3,7 @@
 This repository contains the codes and manuscript generated during my Master's thesis in Physics and Astronomy at GRAPPA (University of Amsterdam).
 
 
-![alt text](https://github.com/ClaudiVallMuller/ULDM-Modulation-of-GWs/blob/plots/Physical setup.png?raw=true)
+![alt text](https://github.com/ClaudiVallMuller/ULDM-Modulation-of-GWs/plots/Physical setup.png?raw=true)
 
 
 
